@@ -1,13 +1,13 @@
-package com.example.potato;
+package com.example.common;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WhitepotatoApplication {
+public class CommonApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WhitepotatoApplication.class, args);
+        SpringApplication.run(CommonApplication.class, args);
     }
 
 }
